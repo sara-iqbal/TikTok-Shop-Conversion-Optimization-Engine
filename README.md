@@ -3,6 +3,8 @@
 ## Project Overview
 This project simulates a large-scale A/B test for TikTok Shop. The goal was to determine if adding a "Countdown Timer" to Live Stream Flash Sale notifications increases user conversion rates and Average Order Value (AOV).
 
+Live Dashboard https://sara-iqbal.github.io/TikTok-Shop-Conversion-Optimization-Engine/
+
 ## The Scenario
 * **Control (A):** Standard push notification.
 * **Variant (B):** Notification with an urgency-based countdown timer (copy generated via LLM).
